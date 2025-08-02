@@ -1,0 +1,6 @@
+framework module Pods_SpinSpeederIOS {
+  umbrella header "Pods-SpinSpeederIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
